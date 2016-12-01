@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/joncclark11/Visual-Regression-Tests/issues"
   },
-  "homepage": "https://github.com/joncclark11/Visual-Regression-Tests#readme"
+  "homepage": "https://github.com/joncclark11/Visual-Regression-Tests#readme",
+  "dependencies": {
+    "eyes.protractor": "0.0.57",
+    "eyes.selenium": "0.0.53"
+  }
 }
