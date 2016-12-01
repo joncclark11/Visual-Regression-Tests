@@ -1,0 +1,20 @@
+{
+  "name": "Visual-Regression-Tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joncclark11/Visual-Regression-Tests.git"
+  },
+  "keywords": [],
+  "author": "Jon C. Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joncclark11/Visual-Regression-Tests/issues"
+  },
+  "homepage": "https://github.com/joncclark11/Visual-Regression-Tests#readme"
+}
