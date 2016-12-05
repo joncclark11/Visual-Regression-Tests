@@ -19,6 +19,8 @@
   "homepage": "https://github.com/joncclark11/Visual-Regression-Tests#readme",
   "dependencies": {
     "eyes.protractor": "0.0.57",
-    "eyes.selenium": "0.0.53"
+    "eyes.selenium": "0.0.53",
+    "protractor": "^4.0.11",
+    "selenium-webdriver": "^3.0.1"
   }
 }
